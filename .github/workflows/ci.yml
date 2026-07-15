@@ -24,4 +24,3 @@ jobs:
 
     - name: Executar testes automatizados
       run: npm test
-      
